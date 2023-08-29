@@ -13,7 +13,7 @@
 ## Project Description
 Hungary’s biggest hybrid hackathon where participating teams have 48 hours to solve specific challenges, proposed by companies who seek to find solutions by bright-minded tech enthusiasts.
 The winning teams can take home up to €4,500!
-
+https://budapest.hackjunction.com/
 
 ## Responsibilities
 
